@@ -61,6 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 Thank you to the HTML5, CSS3, JavaScript And Figma communities for providing excellent tools and resources.
 
-<!-- Contact -->
-## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
